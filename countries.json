@@ -1,0 +1,1139 @@
+{
+  "status": 1,
+  "result": [
+    {
+      "COUNTRYID": "1",
+      "COUNTRYNAME": "AFGHANISTAN",
+      "NATIONALITY": "AFGHAN",
+      "PHONECODE": "93"
+    },
+    {
+      "COUNTRYID": "2",
+      "COUNTRYNAME": "ALBANIA",
+      "NATIONALITY": "ALBANIAN",
+      "PHONECODE": "355"
+    },
+    {
+      "COUNTRYID": "3",
+      "COUNTRYNAME": "ALGERIA",
+      "NATIONALITY": "ALGERIAN",
+      "PHONECODE": "213"
+    },
+    {
+      "COUNTRYID": "4",
+      "COUNTRYNAME": "ANDORRA",
+      "NATIONALITY": "ANDORRAN",
+      "PHONECODE": "376"
+    },
+    {
+      "COUNTRYID": "5",
+      "COUNTRYNAME": "ANGOLA",
+      "NATIONALITY": "ANGOLAN",
+      "PHONECODE": "244"
+    },
+    {
+      "COUNTRYID": "6",
+      "COUNTRYNAME": "ANTIGUA AND BARBUDA",
+      "NATIONALITY": "ANTIGUANS BARBUDANS",
+      "PHONECODE": "1268"
+    },
+    {
+      "COUNTRYID": "7",
+      "COUNTRYNAME": "ARGENTINA",
+      "NATIONALITY": "ARGENTINEAN",
+      "PHONECODE": "54"
+    },
+    {
+      "COUNTRYID": "8",
+      "COUNTRYNAME": "ARMENIA",
+      "NATIONALITY": "ARMENIAN",
+      "PHONECODE": "374"
+    },
+    {
+      "COUNTRYID": "9",
+      "COUNTRYNAME": "AUSTRALIA",
+      "NATIONALITY": "AUSTRALIAN",
+      "PHONECODE": "61"
+    },
+    {
+      "COUNTRYID": "10",
+      "COUNTRYNAME": "AUSTRIA",
+      "NATIONALITY": "AUSTRIAN",
+      "PHONECODE": "43"
+    },
+    {
+      "COUNTRYID": "11",
+      "COUNTRYNAME": "AZERBAIJAN",
+      "NATIONALITY": "AZERBAIJANI",
+      "PHONECODE": "994"
+    },
+    {
+      "COUNTRYID": "12",
+      "COUNTRYNAME": "BAHAMAS",
+      "NATIONALITY": "BAHAMIAN",
+      "PHONECODE": "1242"
+    },
+    {
+      "COUNTRYID": "13",
+      "COUNTRYNAME": "BAHRAIN",
+      "NATIONALITY": "BAHRAINI",
+      "PHONECODE": "973"
+    },
+    {
+      "COUNTRYID": "14",
+      "COUNTRYNAME": "BANGLADESH",
+      "NATIONALITY": "BANGLADESHI",
+      "PHONECODE": "880"
+    },
+    {
+      "COUNTRYID": "15",
+      "COUNTRYNAME": "BARBADOS",
+      "NATIONALITY": "BARBADIAN",
+      "PHONECODE": "1246"
+    },
+    {
+      "COUNTRYID": "16",
+      "COUNTRYNAME": "BELARUS",
+      "NATIONALITY": "BELARUSIAN",
+      "PHONECODE": "375"
+    },
+    {
+      "COUNTRYID": "17",
+      "COUNTRYNAME": "BELGIUM",
+      "NATIONALITY": "BELGIAN",
+      "PHONECODE": "32"
+    },
+    {
+      "COUNTRYID": "18",
+      "COUNTRYNAME": "BELIZE",
+      "NATIONALITY": "BELIZEAN",
+      "PHONECODE": "501"
+    },
+    {
+      "COUNTRYID": "19",
+      "COUNTRYNAME": "BENIN",
+      "NATIONALITY": "BENINESE",
+      "PHONECODE": "229"
+    },
+    {
+      "COUNTRYID": "20",
+      "COUNTRYNAME": "BHUTAN",
+      "NATIONALITY": "BHUTANESE",
+      "PHONECODE": "975"
+    },
+    {
+      "COUNTRYID": "21",
+      "COUNTRYNAME": "BOLIVIA",
+      "NATIONALITY": "BOLIVIAN",
+      "PHONECODE": "591"
+    },
+    {
+      "COUNTRYID": "22",
+      "COUNTRYNAME": "BOSNIA AND HERZEGOVINA",
+      "NATIONALITY": "BOSNIAN HERZEGOVINIAN",
+      "PHONECODE": "387"
+    },
+    {
+      "COUNTRYID": "23",
+      "COUNTRYNAME": "BOTSWANA",
+      "NATIONALITY": "BATSWANA",
+      "PHONECODE": "267"
+    },
+    {
+      "COUNTRYID": "24",
+      "COUNTRYNAME": "BRAZIL",
+      "NATIONALITY": "BRAZILIAN",
+      "PHONECODE": "55"
+    },
+    {
+      "COUNTRYID": "25",
+      "COUNTRYNAME": "BRUNEI",
+      "NATIONALITY": "BRUNEIAN",
+      "PHONECODE": "673"
+    },
+    {
+      "COUNTRYID": "26",
+      "COUNTRYNAME": "BULGARIA",
+      "NATIONALITY": "BULGARIAN",
+      "PHONECODE": "359"
+    },
+    {
+      "COUNTRYID": "27",
+      "COUNTRYNAME": "BURKINA FASO",
+      "NATIONALITY": "BURKINABE",
+      "PHONECODE": "226"
+    },
+    {
+      "COUNTRYID": "28",
+      "COUNTRYNAME": "BURUNDI",
+      "NATIONALITY": "BURUNDIAN",
+      "PHONECODE": "257"
+    },
+    {
+      "COUNTRYID": "29",
+      "COUNTRYNAME": "CAMBODIA",
+      "NATIONALITY": "CAMBODIAN",
+      "PHONECODE": "855"
+    },
+    {
+      "COUNTRYID": "30",
+      "COUNTRYNAME": "CAMEROON",
+      "NATIONALITY": "CAMEROONIAN",
+      "PHONECODE": "237"
+    },
+    {
+      "COUNTRYID": "31",
+      "COUNTRYNAME": "CANADA",
+      "NATIONALITY": "CANADIAN",
+      "PHONECODE": "1"
+    },
+    {
+      "COUNTRYID": "32",
+      "COUNTRYNAME": "CAPE VERDE",
+      "NATIONALITY": "CAPE VERDIAN",
+      "PHONECODE": "238"
+    },
+    {
+      "COUNTRYID": "33",
+      "COUNTRYNAME": "CENTRAL AFRICAN REPUBLIC",
+      "NATIONALITY": "CENTRAL AFRICAN",
+      "PHONECODE": "236"
+    },
+    {
+      "COUNTRYID": "34",
+      "COUNTRYNAME": "CHAD",
+      "NATIONALITY": "CHADIAN",
+      "PHONECODE": "235"
+    },
+    {
+      "COUNTRYID": "35",
+      "COUNTRYNAME": "CHILE",
+      "NATIONALITY": "CHILEAN",
+      "PHONECODE": "56"
+    },
+    {
+      "COUNTRYID": "36",
+      "COUNTRYNAME": "CHINA",
+      "NATIONALITY": "CHINESE",
+      "PHONECODE": "86"
+    },
+    {
+      "COUNTRYID": "37",
+      "COUNTRYNAME": "COLOMBIA",
+      "NATIONALITY": "COLOMBIAN",
+      "PHONECODE": "57"
+    },
+    {
+      "COUNTRYID": "38",
+      "COUNTRYNAME": "COMOROS",
+      "NATIONALITY": "COMORAN",
+      "PHONECODE": "269"
+    },
+    {
+      "COUNTRYID": "39",
+      "COUNTRYNAME": "CONGO",
+      "NATIONALITY": "REPUBLIC OF THE CONGOLESE",
+      "PHONECODE": "242"
+    },
+    {
+      "COUNTRYID": "40",
+      "COUNTRYNAME": "COSTA RICA",
+      "NATIONALITY": "COSTA RICAN",
+      "PHONECODE": "506"
+    },
+    {
+      "COUNTRYID": "41",
+      "COUNTRYNAME": "CROATIA",
+      "NATIONALITY": "CROATIAN",
+      "PHONECODE": "385"
+    },
+    {
+      "COUNTRYID": "42",
+      "COUNTRYNAME": "CUBA",
+      "NATIONALITY": "CUBAN",
+      "PHONECODE": "53"
+    },
+    {
+      "COUNTRYID": "43",
+      "COUNTRYNAME": "CYPRUS",
+      "NATIONALITY": "CYPRIOT",
+      "PHONECODE": "357"
+    },
+    {
+      "COUNTRYID": "44",
+      "COUNTRYNAME": "CZECH REPUBLIC",
+      "NATIONALITY": "CZECH",
+      "PHONECODE": "420"
+    },
+    {
+      "COUNTRYID": "45",
+      "COUNTRYNAME": "DENMARK",
+      "NATIONALITY": "DANISH",
+      "PHONECODE": "45"
+    },
+    {
+      "COUNTRYID": "46",
+      "COUNTRYNAME": "DJIBOUTI",
+      "NATIONALITY": "DJIBOUTI",
+      "PHONECODE": "253"
+    },
+    {
+      "COUNTRYID": "47",
+      "COUNTRYNAME": "DOMINICA",
+      "NATIONALITY": "DOMINICAN",
+      "PHONECODE": "1767"
+    },
+    {
+      "COUNTRYID": "48",
+      "COUNTRYNAME": "DOMINICAN REPUBLIC",
+      "NATIONALITY": "DOMINICAN",
+      "PHONECODE": "1809"
+    },
+    {
+      "COUNTRYID": "49",
+      "COUNTRYNAME": "EAST TIMOR",
+      "NATIONALITY": "EAST TIMORESE",
+      "PHONECODE": "670"
+    },
+    {
+      "COUNTRYID": "50",
+      "COUNTRYNAME": "ECUADOR",
+      "NATIONALITY": "ECUADOREAN",
+      "PHONECODE": "593"
+    },
+    {
+      "COUNTRYID": "51",
+      "COUNTRYNAME": "EGYPT",
+      "NATIONALITY": "EGYPTIAN",
+      "PHONECODE": "20"
+    },
+    {
+      "COUNTRYID": "52",
+      "COUNTRYNAME": "EL SALVADOR",
+      "NATIONALITY": "SALVADORAN",
+      "PHONECODE": "503"
+    },
+    {
+      "COUNTRYID": "53",
+      "COUNTRYNAME": "EQUATORIAL GUINEA",
+      "NATIONALITY": "EQUATORIAL GUINEAN",
+      "PHONECODE": "240"
+    },
+    {
+      "COUNTRYID": "54",
+      "COUNTRYNAME": "ERITREA",
+      "NATIONALITY": "ERITREAN",
+      "PHONECODE": "291"
+    },
+    {
+      "COUNTRYID": "55",
+      "COUNTRYNAME": "ESTONIA",
+      "NATIONALITY": "ESTONIAN",
+      "PHONECODE": "372"
+    },
+    {
+      "COUNTRYID": "56",
+      "COUNTRYNAME": "ETHIOPIA",
+      "NATIONALITY": "ETHIOPIAN",
+      "PHONECODE": "251"
+    },
+    {
+      "COUNTRYID": "57",
+      "COUNTRYNAME": "FIJI",
+      "NATIONALITY": "FIJIAN",
+      "PHONECODE": "679"
+    },
+    {
+      "COUNTRYID": "58",
+      "COUNTRYNAME": "FINLAND",
+      "NATIONALITY": "FINNISH",
+      "PHONECODE": "358"
+    },
+    {
+      "COUNTRYID": "59",
+      "COUNTRYNAME": "FRANCE",
+      "NATIONALITY": "FRENCH",
+      "PHONECODE": "33"
+    },
+    {
+      "COUNTRYID": "60",
+      "COUNTRYNAME": "GABON",
+      "NATIONALITY": "GABONESE",
+      "PHONECODE": "241"
+    },
+    {
+      "COUNTRYID": "61",
+      "COUNTRYNAME": "GAMBIA",
+      "NATIONALITY": "GAMBIAN",
+      "PHONECODE": "220"
+    },
+    {
+      "COUNTRYID": "62",
+      "COUNTRYNAME": "GEORGIA",
+      "NATIONALITY": "GEORGIAN",
+      "PHONECODE": "995"
+    },
+    {
+      "COUNTRYID": "63",
+      "COUNTRYNAME": "GERMANY",
+      "NATIONALITY": "GERMAN",
+      "PHONECODE": "49"
+    },
+    {
+      "COUNTRYID": "64",
+      "COUNTRYNAME": "GHANA",
+      "NATIONALITY": "GHANAIAN",
+      "PHONECODE": "233"
+    },
+    {
+      "COUNTRYID": "65",
+      "COUNTRYNAME": "GREECE",
+      "NATIONALITY": "GREEK",
+      "PHONECODE": "30"
+    },
+    {
+      "COUNTRYID": "66",
+      "COUNTRYNAME": "GRENADA",
+      "NATIONALITY": "GRENADIAN",
+      "PHONECODE": "1473"
+    },
+    {
+      "COUNTRYID": "67",
+      "COUNTRYNAME": "GUATEMALA",
+      "NATIONALITY": "GUATEMALAN",
+      "PHONECODE": "502"
+    },
+    {
+      "COUNTRYID": "68",
+      "COUNTRYNAME": "GUINEA",
+      "NATIONALITY": "GUINEAN",
+      "PHONECODE": "224"
+    },
+    {
+      "COUNTRYID": "69",
+      "COUNTRYNAME": "GUINEA-BISSAU",
+      "NATIONALITY": "GUINEA-BISSAUAN",
+      "PHONECODE": "245"
+    },
+    {
+      "COUNTRYID": "70",
+      "COUNTRYNAME": "GUYANA",
+      "NATIONALITY": "GUYANESE",
+      "PHONECODE": "592"
+    },
+    {
+      "COUNTRYID": "71",
+      "COUNTRYNAME": "HAITI",
+      "NATIONALITY": "HAITIAN",
+      "PHONECODE": "509"
+    },
+    {
+      "COUNTRYID": "72",
+      "COUNTRYNAME": "HONDURAS",
+      "NATIONALITY": "HONDURAN",
+      "PHONECODE": "504"
+    },
+    {
+      "COUNTRYID": "73",
+      "COUNTRYNAME": "HONG KONG",
+      "NATIONALITY": "HONG KONG",
+      "PHONECODE": "852"
+    },
+    {
+      "COUNTRYID": "74",
+      "COUNTRYNAME": "HUNGARY",
+      "NATIONALITY": "HUNGARIAN",
+      "PHONECODE": "36"
+    },
+    {
+      "COUNTRYID": "75",
+      "COUNTRYNAME": "ICELAND",
+      "NATIONALITY": "ICELANDER",
+      "PHONECODE": "354"
+    },
+    {
+      "COUNTRYID": "76",
+      "COUNTRYNAME": "INDIA",
+      "NATIONALITY": "INDIAN",
+      "PHONECODE": "91"
+    },
+    {
+      "COUNTRYID": "77",
+      "COUNTRYNAME": "INDONESIA",
+      "NATIONALITY": "INDONESIAN",
+      "PHONECODE": "62"
+    },
+    {
+      "COUNTRYID": "78",
+      "COUNTRYNAME": "IRAN",
+      "NATIONALITY": "IRANIAN",
+      "PHONECODE": "98"
+    },
+    {
+      "COUNTRYID": "79",
+      "COUNTRYNAME": "IRAQ",
+      "NATIONALITY": "IRAQI",
+      "PHONECODE": "964"
+    },
+    {
+      "COUNTRYID": "80",
+      "COUNTRYNAME": "IRELAND",
+      "NATIONALITY": "IRISH",
+      "PHONECODE": "353"
+    },
+    {
+      "COUNTRYID": "81",
+      "COUNTRYNAME": "ISRAEL",
+      "NATIONALITY": "ISRAELI",
+      "PHONECODE": "972"
+    },
+    {
+      "COUNTRYID": "82",
+      "COUNTRYNAME": "ITALY",
+      "NATIONALITY": "ITALIAN",
+      "PHONECODE": "39"
+    },
+    {
+      "COUNTRYID": "83",
+      "COUNTRYNAME": "JAMAICA",
+      "NATIONALITY": "JAMAICAN",
+      "PHONECODE": "1876"
+    },
+    {
+      "COUNTRYID": "84",
+      "COUNTRYNAME": "JAPAN",
+      "NATIONALITY": "JAPANESE",
+      "PHONECODE": "81"
+    },
+    {
+      "COUNTRYID": "85",
+      "COUNTRYNAME": "JORDAN",
+      "NATIONALITY": "JORDANIAN",
+      "PHONECODE": "962"
+    },
+    {
+      "COUNTRYID": "86",
+      "COUNTRYNAME": "KAZAKHSTAN",
+      "NATIONALITY": "KAZAKHSTANI",
+      "PHONECODE": "7"
+    },
+    {
+      "COUNTRYID": "87",
+      "COUNTRYNAME": "KENYA",
+      "NATIONALITY": "KENYAN",
+      "PHONECODE": "254"
+    },
+    {
+      "COUNTRYID": "88",
+      "COUNTRYNAME": "KIRIBATI",
+      "NATIONALITY": "I-KIRIBATI",
+      "PHONECODE": "689"
+    },
+    {
+      "COUNTRYID": "89",
+      "COUNTRYNAME": "KOREA (NORTH)",
+      "NATIONALITY": "NORTH NORTH KOREAN",
+      "PHONECODE": "850"
+    },
+    {
+      "COUNTRYID": "90",
+      "COUNTRYNAME": "KOREA (SOUTH)",
+      "NATIONALITY": "SOUTH SOUTH KOREAN",
+      "PHONECODE": "82"
+    },
+    {
+      "COUNTRYID": "91",
+      "COUNTRYNAME": "KUWAIT",
+      "NATIONALITY": "KUWAITI",
+      "PHONECODE": "965"
+    },
+    {
+      "COUNTRYID": "92",
+      "COUNTRYNAME": "KYRGYZSTAN",
+      "NATIONALITY": "KIRGHIZ",
+      "PHONECODE": "996"
+    },
+    {
+      "COUNTRYID": "93",
+      "COUNTRYNAME": "LAOS",
+      "NATIONALITY": "LAOTIAN",
+      "PHONECODE": "856"
+    },
+    {
+      "COUNTRYID": "94",
+      "COUNTRYNAME": "LATVIA",
+      "NATIONALITY": "LATVIAN",
+      "PHONECODE": "371"
+    },
+    {
+      "COUNTRYID": "95",
+      "COUNTRYNAME": "LEBANON",
+      "NATIONALITY": "LEBANESE",
+      "PHONECODE": "961"
+    },
+    {
+      "COUNTRYID": "96",
+      "COUNTRYNAME": "LESOTHO",
+      "NATIONALITY": "MOSOTHO",
+      "PHONECODE": "266"
+    },
+    {
+      "COUNTRYID": "97",
+      "COUNTRYNAME": "LIBERIA",
+      "NATIONALITY": "LIBERIAN",
+      "PHONECODE": "231"
+    },
+    {
+      "COUNTRYID": "98",
+      "COUNTRYNAME": "LIBYA",
+      "NATIONALITY": "LIBYAN",
+      "PHONECODE": "218"
+    },
+    {
+      "COUNTRYID": "99",
+      "COUNTRYNAME": "LIECHTENSTEIN",
+      "NATIONALITY": "LIECHTENSTEINER",
+      "PHONECODE": "423"
+    },
+    {
+      "COUNTRYID": "100",
+      "COUNTRYNAME": "LITHUANIA",
+      "NATIONALITY": "LITHUANIAN",
+      "PHONECODE": "370"
+    },
+    {
+      "COUNTRYID": "101",
+      "COUNTRYNAME": "LUXEMBOURG",
+      "NATIONALITY": "LUXEMBOURGER",
+      "PHONECODE": "352"
+    },
+    {
+      "COUNTRYID": "102",
+      "COUNTRYNAME": "MACEDONIA",
+      "NATIONALITY": "MACEDONIAN",
+      "PHONECODE": "389"
+    },
+    {
+      "COUNTRYID": "103",
+      "COUNTRYNAME": "MADAGASCAR",
+      "NATIONALITY": "MALAGASY",
+      "PHONECODE": "261"
+    },
+    {
+      "COUNTRYID": "104",
+      "COUNTRYNAME": "MALAWI",
+      "NATIONALITY": "MALAWIAN",
+      "PHONECODE": "265"
+    },
+    {
+      "COUNTRYID": "105",
+      "COUNTRYNAME": "MALAYSIA",
+      "NATIONALITY": "MALAYSIAN",
+      "PHONECODE": "60"
+    },
+    {
+      "COUNTRYID": "106",
+      "COUNTRYNAME": "MALDIVES",
+      "NATIONALITY": "MALDIVAN",
+      "PHONECODE": "960"
+    },
+    {
+      "COUNTRYID": "107",
+      "COUNTRYNAME": "MALI",
+      "NATIONALITY": "MALIAN",
+      "PHONECODE": "223"
+    },
+    {
+      "COUNTRYID": "108",
+      "COUNTRYNAME": "MALTA",
+      "NATIONALITY": "MALTESE",
+      "PHONECODE": "356"
+    },
+    {
+      "COUNTRYID": "109",
+      "COUNTRYNAME": "MARSHALL ISLANDS",
+      "NATIONALITY": "MARSHALLESE",
+      "PHONECODE": "692"
+    },
+    {
+      "COUNTRYID": "110",
+      "COUNTRYNAME": "MAURITANIA",
+      "NATIONALITY": "MAURITANIAN",
+      "PHONECODE": "222"
+    },
+    {
+      "COUNTRYID": "111",
+      "COUNTRYNAME": "MAURITIUS",
+      "NATIONALITY": "MAURITIAN",
+      "PHONECODE": "230"
+    },
+    {
+      "COUNTRYID": "112",
+      "COUNTRYNAME": "MEXICO",
+      "NATIONALITY": "MEXICAN",
+      "PHONECODE": "52"
+    },
+    {
+      "COUNTRYID": "113",
+      "COUNTRYNAME": "MICRONESIA",
+      "NATIONALITY": "MICRONESIAN",
+      "PHONECODE": "691"
+    },
+    {
+      "COUNTRYID": "114",
+      "COUNTRYNAME": "MOLDOVA",
+      "NATIONALITY": "MOLDOVAN",
+      "PHONECODE": "373"
+    },
+    {
+      "COUNTRYID": "115",
+      "COUNTRYNAME": "MONACO",
+      "NATIONALITY": "MONEGASQUE",
+      "PHONECODE": "377"
+    },
+    {
+      "COUNTRYID": "116",
+      "COUNTRYNAME": "MONGOLIA",
+      "NATIONALITY": "MONGOLIAN",
+      "PHONECODE": "976"
+    },
+    {
+      "COUNTRYID": "117",
+      "COUNTRYNAME": "MOROCCO",
+      "NATIONALITY": "MOROCCAN",
+      "PHONECODE": "212"
+    },
+    {
+      "COUNTRYID": "118",
+      "COUNTRYNAME": "MOZAMBIQUE",
+      "NATIONALITY": "MOZAMBICAN",
+      "PHONECODE": "258"
+    },
+    {
+      "COUNTRYID": "119",
+      "COUNTRYNAME": "MYANMAR",
+      "NATIONALITY": "BURMESE",
+      "PHONECODE": "95"
+    },
+    {
+      "COUNTRYID": "120",
+      "COUNTRYNAME": "NAMIBIA",
+      "NATIONALITY": "NAMIBIAN",
+      "PHONECODE": "264"
+    },
+    {
+      "COUNTRYID": "121",
+      "COUNTRYNAME": "NAURU",
+      "NATIONALITY": "NAURUAN",
+      "PHONECODE": "674"
+    },
+    {
+      "COUNTRYID": "122",
+      "COUNTRYNAME": "NEPAL",
+      "NATIONALITY": "NEPALESE",
+      "PHONECODE": "977"
+    },
+    {
+      "COUNTRYID": "123",
+      "COUNTRYNAME": "NETHERLANDS",
+      "NATIONALITY": "DUTCH",
+      "PHONECODE": "31"
+    },
+    {
+      "COUNTRYID": "124",
+      "COUNTRYNAME": "NEW ZEALAND",
+      "NATIONALITY": "NEW ZEALANDER",
+      "PHONECODE": "64"
+    },
+    {
+      "COUNTRYID": "125",
+      "COUNTRYNAME": "NICARAGUA",
+      "NATIONALITY": "NICARAGUAN",
+      "PHONECODE": "505"
+    },
+    {
+      "COUNTRYID": "126",
+      "COUNTRYNAME": "NIGER",
+      "NATIONALITY": "NIGERIEN",
+      "PHONECODE": "227"
+    },
+    {
+      "COUNTRYID": "127",
+      "COUNTRYNAME": "NIGERIA",
+      "NATIONALITY": "NIGERIAN",
+      "PHONECODE": "234"
+    },
+    {
+      "COUNTRYID": "128",
+      "COUNTRYNAME": "NORWAY",
+      "NATIONALITY": "NORWEGIAN",
+      "PHONECODE": "47"
+    },
+    {
+      "COUNTRYID": "129",
+      "COUNTRYNAME": "OMAN",
+      "NATIONALITY": "OMANI",
+      "PHONECODE": "968"
+    },
+    {
+      "COUNTRYID": "130",
+      "COUNTRYNAME": "PAKISTAN",
+      "NATIONALITY": "PAKISTANI",
+      "PHONECODE": "92"
+    },
+    {
+      "COUNTRYID": "131",
+      "COUNTRYNAME": "PALAU",
+      "NATIONALITY": "PALAUAN",
+      "PHONECODE": "680"
+    },
+    {
+      "COUNTRYID": "132",
+      "COUNTRYNAME": "PANAMA",
+      "NATIONALITY": "PANAMANIAN",
+      "PHONECODE": "507"
+    },
+    {
+      "COUNTRYID": "133",
+      "COUNTRYNAME": "PAPUA NEW GUINEA",
+      "NATIONALITY": "PAPUA NEW GUINEAN",
+      "PHONECODE": "675"
+    },
+    {
+      "COUNTRYID": "134",
+      "COUNTRYNAME": "PARAGUAY",
+      "NATIONALITY": "PARAGUAYAN",
+      "PHONECODE": "595"
+    },
+    {
+      "COUNTRYID": "135",
+      "COUNTRYNAME": "PERU",
+      "NATIONALITY": "PERUVIAN",
+      "PHONECODE": "51"
+    },
+    {
+      "COUNTRYID": "136",
+      "COUNTRYNAME": "PHILIPPINES",
+      "NATIONALITY": "FILIPINO",
+      "PHONECODE": "63"
+    },
+    {
+      "COUNTRYID": "137",
+      "COUNTRYNAME": "POLAND",
+      "NATIONALITY": "POLISH",
+      "PHONECODE": "48"
+    },
+    {
+      "COUNTRYID": "138",
+      "COUNTRYNAME": "PORTUGAL",
+      "NATIONALITY": "PORTUGUESE",
+      "PHONECODE": "351"
+    },
+    {
+      "COUNTRYID": "139",
+      "COUNTRYNAME": "QATAR",
+      "NATIONALITY": "QATARI",
+      "PHONECODE": "974"
+    },
+    {
+      "COUNTRYID": "140",
+      "COUNTRYNAME": "ROMANIA",
+      "NATIONALITY": "ROMANIAN",
+      "PHONECODE": "40"
+    },
+    {
+      "COUNTRYID": "141",
+      "COUNTRYNAME": "RUSSIA",
+      "NATIONALITY": "RUSSIAN",
+      "PHONECODE": "7"
+    },
+    {
+      "COUNTRYID": "142",
+      "COUNTRYNAME": "RWANDA",
+      "NATIONALITY": "RWANDAN",
+      "PHONECODE": "250"
+    },
+    {
+      "COUNTRYID": "143",
+      "COUNTRYNAME": "SAINT KITTS AND NEVIS",
+      "NATIONALITY": "KITTIAN AND NEVISIAN",
+      "PHONECODE": "1869"
+    },
+    {
+      "COUNTRYID": "144",
+      "COUNTRYNAME": "SAINT LUCIA",
+      "NATIONALITY": "SAINT LUCIAN",
+      "PHONECODE": "1758"
+    },
+    {
+      "COUNTRYID": "145",
+      "COUNTRYNAME": "SAN MARINO",
+      "NATIONALITY": "SAMMARINESE",
+      "PHONECODE": "378"
+    },
+    {
+      "COUNTRYID": "146",
+      "COUNTRYNAME": "SAO TOME AND PRINCIPE",
+      "NATIONALITY": "SAO TOMEAN",
+      "PHONECODE": "239"
+    },
+    {
+      "COUNTRYID": "147",
+      "COUNTRYNAME": "SAUDI ARABIA",
+      "NATIONALITY": "SAUDI ARABIAN",
+      "PHONECODE": "966"
+    },
+    {
+      "COUNTRYID": "148",
+      "COUNTRYNAME": "SENEGAL",
+      "NATIONALITY": "SENEGALESE",
+      "PHONECODE": "221"
+    },
+    {
+      "COUNTRYID": "149",
+      "COUNTRYNAME": "SERBIA AND MONTENEGRO",
+      "NATIONALITY": "SERBIAN",
+      "PHONECODE": "381"
+    },
+    {
+      "COUNTRYID": "150",
+      "COUNTRYNAME": "SEYCHELLES",
+      "NATIONALITY": "SEYCHELLOIS",
+      "PHONECODE": "248"
+    },
+    {
+      "COUNTRYID": "151",
+      "COUNTRYNAME": "SIERRA LEONE",
+      "NATIONALITY": "SIERRA LEONEAN",
+      "PHONECODE": "232"
+    },
+    {
+      "COUNTRYID": "152",
+      "COUNTRYNAME": "SINGAPORE",
+      "NATIONALITY": "SINGAPOREAN",
+      "PHONECODE": "65"
+    },
+    {
+      "COUNTRYID": "153",
+      "COUNTRYNAME": "SLOVAKIA",
+      "NATIONALITY": "SLOVAK",
+      "PHONECODE": "421"
+    },
+    {
+      "COUNTRYID": "154",
+      "COUNTRYNAME": "SLOVENIA",
+      "NATIONALITY": "SLOVENE",
+      "PHONECODE": "386"
+    },
+    {
+      "COUNTRYID": "155",
+      "COUNTRYNAME": "SOLOMON ISLANDS",
+      "NATIONALITY": "SOLOMON ISLANDER",
+      "PHONECODE": "677"
+    },
+    {
+      "COUNTRYID": "156",
+      "COUNTRYNAME": "SOMALIA",
+      "NATIONALITY": "SOMALI",
+      "PHONECODE": "252"
+    },
+    {
+      "COUNTRYID": "157",
+      "COUNTRYNAME": "SOUTH AFRICA",
+      "NATIONALITY": "SOUTH AFRICAN",
+      "PHONECODE": "27"
+    },
+    {
+      "COUNTRYID": "158",
+      "COUNTRYNAME": "SPAIN",
+      "NATIONALITY": "SPANISH",
+      "PHONECODE": "34"
+    },
+    {
+      "COUNTRYID": "159",
+      "COUNTRYNAME": "SRI LANKA",
+      "NATIONALITY": "SRI LANKAN",
+      "PHONECODE": "94"
+    },
+    {
+      "COUNTRYID": "160",
+      "COUNTRYNAME": "SUDAN",
+      "NATIONALITY": "SUDANESE",
+      "PHONECODE": "249"
+    },
+    {
+      "COUNTRYID": "161",
+      "COUNTRYNAME": "SURINAME",
+      "NATIONALITY": "SURINAMER",
+      "PHONECODE": "597"
+    },
+    {
+      "COUNTRYID": "162",
+      "COUNTRYNAME": "SWAZILAND",
+      "NATIONALITY": "SWAZI",
+      "PHONECODE": "268"
+    },
+    {
+      "COUNTRYID": "163",
+      "COUNTRYNAME": "SWEDEN",
+      "NATIONALITY": "SWEDISH",
+      "PHONECODE": "46"
+    },
+    {
+      "COUNTRYID": "164",
+      "COUNTRYNAME": "SWITZERLAND",
+      "NATIONALITY": "SWISS",
+      "PHONECODE": "41"
+    },
+    {
+      "COUNTRYID": "165",
+      "COUNTRYNAME": "SYRIA",
+      "NATIONALITY": "SYRIAN",
+      "PHONECODE": "963"
+    },
+    {
+      "COUNTRYID": "166",
+      "COUNTRYNAME": "TAIWAN",
+      "NATIONALITY": "TAIWANESE",
+      "PHONECODE": "886"
+    },
+    {
+      "COUNTRYID": "167",
+      "COUNTRYNAME": "TAJIKISTAN",
+      "NATIONALITY": "TADZHIK",
+      "PHONECODE": "992"
+    },
+    {
+      "COUNTRYID": "168",
+      "COUNTRYNAME": "TANZANIA",
+      "NATIONALITY": "TANZANIAN",
+      "PHONECODE": "255"
+    },
+    {
+      "COUNTRYID": "169",
+      "COUNTRYNAME": "THAILAND",
+      "NATIONALITY": "THAI",
+      "PHONECODE": "66"
+    },
+    {
+      "COUNTRYID": "170",
+      "COUNTRYNAME": "TOGO",
+      "NATIONALITY": "TOGOLESE",
+      "PHONECODE": "228"
+    },
+    {
+      "COUNTRYID": "171",
+      "COUNTRYNAME": "TONGA",
+      "NATIONALITY": "TONGAN",
+      "PHONECODE": "676"
+    },
+    {
+      "COUNTRYID": "172",
+      "COUNTRYNAME": "TRINIDAD AND TOBAGO",
+      "NATIONALITY": "TRINIDADIAN",
+      "PHONECODE": "1868"
+    },
+    {
+      "COUNTRYID": "173",
+      "COUNTRYNAME": "TUNISIA",
+      "NATIONALITY": "TUNISIAN",
+      "PHONECODE": "216"
+    },
+    {
+      "COUNTRYID": "174",
+      "COUNTRYNAME": "TURKEY",
+      "NATIONALITY": "TURKISH",
+      "PHONECODE": "90"
+    },
+    {
+      "COUNTRYID": "175",
+      "COUNTRYNAME": "TURKMENISTAN",
+      "NATIONALITY": "TURKMEN",
+      "PHONECODE": "993"
+    },
+    {
+      "COUNTRYID": "176",
+      "COUNTRYNAME": "TUVALU",
+      "NATIONALITY": "TUVALUAN",
+      "PHONECODE": "688"
+    },
+    {
+      "COUNTRYID": "177",
+      "COUNTRYNAME": "UGANDA",
+      "NATIONALITY": "UGANDAN",
+      "PHONECODE": "256"
+    },
+    {
+      "COUNTRYID": "178",
+      "COUNTRYNAME": "UKRAINE",
+      "NATIONALITY": "UKRAINIAN",
+      "PHONECODE": "380"
+    },
+    {
+      "COUNTRYID": "179",
+      "COUNTRYNAME": "UNITED ARAB EMIRATES",
+      "NATIONALITY": "EMIRIAN",
+      "PHONECODE": "971"
+    },
+    {
+      "COUNTRYID": "180",
+      "COUNTRYNAME": "UNITED KINGDOM",
+      "NATIONALITY": "BRITISH",
+      "PHONECODE": "44"
+    },
+    {
+      "COUNTRYID": "181",
+      "COUNTRYNAME": "UNITED STATES OF AMERICA",
+      "NATIONALITY": "AMERICAN",
+      "PHONECODE": "1"
+    },
+    {
+      "COUNTRYID": "182",
+      "COUNTRYNAME": "URUGUAY",
+      "NATIONALITY": "URUGUAYAN",
+      "PHONECODE": "598"
+    },
+    {
+      "COUNTRYID": "183",
+      "COUNTRYNAME": "UZBEKISTAN",
+      "NATIONALITY": "UZBEKISTANI",
+      "PHONECODE": "998"
+    },
+    {
+      "COUNTRYID": "184",
+      "COUNTRYNAME": "VANUATU",
+      "NATIONALITY": "NI-VANUATU",
+      "PHONECODE": "678"
+    },
+    {
+      "COUNTRYID": "185",
+      "COUNTRYNAME": "VENEZUELA",
+      "NATIONALITY": "VENEZUELAN",
+      "PHONECODE": "58"
+    },
+    {
+      "COUNTRYID": "186",
+      "COUNTRYNAME": "VIETNAM",
+      "NATIONALITY": "VIETNAMESE",
+      "PHONECODE": "84"
+    },
+    {
+      "COUNTRYID": "187",
+      "COUNTRYNAME": "YEMEN",
+      "NATIONALITY": "YEMENI",
+      "PHONECODE": "967"
+    },
+    {
+      "COUNTRYID": "188",
+      "COUNTRYNAME": "ZAMBIA",
+      "NATIONALITY": "ZAMBIAN",
+      "PHONECODE": "260"
+    },
+    {
+      "COUNTRYID": "189",
+      "COUNTRYNAME": "ZIMBABWE",
+      "NATIONALITY": "ZIMBABWEAN",
+      "PHONECODE": "263"
+    }
+  ]
+}
